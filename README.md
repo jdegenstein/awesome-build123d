@@ -41,8 +41,12 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 
 
 ## Examples and Projects using build123d
+
+
 * [custom-keycap-generator](https://github.com/nicola-sorace/custom-keycap-generator) - Generate custom print-ready keycap geometries using Python and build123d
 * [BlueDrink9/keeb_snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Create a cool PCB case and travel case for split keyboards or other custom PCBs
+* [ginkgo/trackball](https://github.com/ginkgo/trackball) - 3d-printable twist-to-scroll trackball using a Raspberry Pi Pico and two PMW3360 sensors designed using build123d
+
 
 ## Tutorials and Documentation
 
