@@ -32,6 +32,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 
 * [KiCad Packages3D Generator](https://gitlab.com/kicad/libraries/kicad-packages3D-generator) - Python scripts for generating 3D electrical component models in STEP and VRML.
 * [gridfinity_build123d](https://github.com/Ruudjhuu/gridfinity_build123d) - Create gridfinity items with build123d
+* [larssont/capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d
 
 
 ## Miscellaneous
@@ -46,6 +47,8 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [custom-keycap-generator](https://github.com/nicola-sorace/custom-keycap-generator) - Generate custom print-ready keycap geometries using Python and build123d
 * [BlueDrink9/keeb_snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Create a cool PCB case and travel case for split keyboards or other custom PCBs
 * [ginkgo/trackball](https://github.com/ginkgo/trackball) - 3d-printable twist-to-scroll trackball using a Raspberry Pi Pico and two PMW3360 sensors designed using build123d
+* [jgraichen/someline](https://github.com/jgraichen/someline) - 3D printable insets for some Someline® storage boxes designed using build123d
+* [x0pherl/fender-bender](https://github.com/x0pherl/fender-bender) - an open-source filament buffering system for multi-material 3D printers designed using build123d
 
 
 ## Tutorials and Documentation
