@@ -33,6 +33,8 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [KiCad Packages3D Generator](https://gitlab.com/kicad/libraries/kicad-packages3D-generator) - Python scripts for generating 3D electrical component models in STEP and VRML.
 * [gridfinity_build123d](https://github.com/Ruudjhuu/gridfinity_build123d) - Create gridfinity items with build123d
 * [larssont/capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d
+* [PaulBone/gfthings](https://github.com/PaulBone/gfthings) - A tool to generate gridfinity compatible objects like bins, grids, base edges, and pins
+* [ndevenish/gflabel](https://github.com/ndevenish/gflabel) - Generates 3d-printable labels for gridfinity label systems
 
 
 ## Miscellaneous
