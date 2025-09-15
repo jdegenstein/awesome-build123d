@@ -21,6 +21,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 * [bd_animation](https://github.com/bernhard-42/bd_animation) - Animation class and tutorials for build123d
 * [bd_beams_and_bars](https://bd-beams-and-bars.3d.experimentslabs.com/) - Construction beams and bars - ![Tests](https://gitlab.com/experimentslabs/3d/bd_beams_and_bars/badges/main/pipeline.svg) 
+* [bd_tube_boxes](https://bd-tube-boxes.3d.experimentslabs.com) - build123d library to create boxes from old tubes.
 * [bd_warehouse](https://github.com/gumyr/bd_warehouse) - bd_warehouse augments build123d with parametric parts - generated on demand - and extensions to the core build123d capabilities.
 * [dl4to4ocp](https://github.com/yeicor-3d/dl4to4ocp) - Library that helps perform [topology optimization](https://en.wikipedia.org/wiki/Topology_optimization) on
 your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https://github.com/CadQuery/cadquery)/[build123d](https://github.com/gumyr/build123d)/...) using the [dl4to](https://github.com/dl4to/dl4to) library.
